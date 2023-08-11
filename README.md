@@ -4,10 +4,10 @@ Hi my name is Abhijith SJ
 -Backend         :    Express.JS ,Scoket.IO<br>
 -Data Science    :    OpenCv with Python<br>
 
--Languages know  :    🌐 JavaScript<br>
-                      🐍 Python<br>
-                      ☕ Java<br>
-                      ⚙️ C Programming<br>
+-Languages know  : &nbsp;   🌐 JavaScript&nbsp;
+                      🐍 Python&nbsp;
+                      ☕ Java&nbsp;
+                      ⚙️ C Programming&nbsp;
 
 
 <!---
