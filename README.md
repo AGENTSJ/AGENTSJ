@@ -1,13 +1,13 @@
 Hi my name is Abhijith SJ
 
--Frontend        :    React.JS , HTML , CSS
--Backend         :    Express.JS ,Scoket.IO
--Data Science    :    OpenCv with Python
+-Frontend        :    React.JS , HTML , CSS<br>
+-Backend         :    Express.JS ,Scoket.IO<br>
+-Data Science    :    OpenCv with Python<br>
 
--Languages know  :    🌐 JavaScript
-                      🐍 Python
-                      ☕ Java
-                      ⚙️ C Programming
+-Languages know  :    🌐 JavaScript<br>
+                      🐍 Python<br>
+                      ☕ Java<br>
+                      ⚙️ C Programming<br>
 
 
 <!---
