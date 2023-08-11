@@ -1,5 +1,13 @@
 Hi my name is Abhijith SJ
-I am focusing on becoming MERN stack developer while parelling doing my engineering in computer science
+
+-Frontend        :    React.JS , HTML , CSS
+-Backend         :    Express.JS ,Scoket.IO
+-Data Science    :    OpenCv with Python
+
+-Languages know  :    🌐 JavaScript
+                      🐍 Python
+                      ☕ Java
+                      ⚙️ C Programming
 
 
 <!---
