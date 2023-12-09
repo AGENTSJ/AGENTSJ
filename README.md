@@ -1,14 +1,25 @@
-Hi my name is Abhijith SJ
+# Hi there! I'm Abhijith SJ 
 
--Frontend        :    React.JS , HTML , CSS<br>
--Backend         :    Express.JS ,Scoket.IO<br>
--Data Science    :    OpenCv with Python<br>
+## Tech Stack
 
--Languages known  : &nbsp;   🌐 JavaScript,&nbsp;,
-                      🐍 Python,&nbsp;
-                      ☕ Java,&nbsp;
-                      ⚙️ C&nbsp;
+### Frontend
+- React.JS
+- HTML
+- CSS
 
+### Backend
+- Express.JS
+- Socket.IO
+- Flask (Web Framework)
+
+### Machine Learning & Data Science
+- TensorFlow (Machine Learning)
+- OpenCV with Python (Computer Vision)
+
+## Languages Known
+🌐 JavaScript, 🐍 Python, ☕ Java, ⚙️ C
+
+Feel free to connect or reach out for collaboration!
 
 <!---
 AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
