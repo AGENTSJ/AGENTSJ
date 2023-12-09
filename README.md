@@ -1,5 +1,10 @@
-# Hi there! I'm Abhijith SJ 👋
-
+# Hi there! I'm Abhijith SJ 
+<style>
+  @keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; margin-right: 20px; overflow: hidden;">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 100%; height: auto; animation: rotate 10s linear infinite;">
@@ -19,24 +24,19 @@
   ### Backend
   - Express.JS
   - Socket.IO
+  - Flask (Web Framework)
 
   ### Machine Learning & Data Science
   - TensorFlow (Machine Learning)
-  - Flask (Web Framework)
   - OpenCV with Python (Computer Vision)
 
   ## Languages Known
   🌐 JavaScript, 🐍 Python, ☕ Java, ⚙️ C
 
-  Feel free to connect or reach out for collaboration! 🚀
+  Feel free to connect or reach out for collaboration! 
 </div>
 
-<style>
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
+
 
 
 <!---
