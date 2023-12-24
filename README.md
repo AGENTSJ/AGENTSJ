@@ -1,16 +1,12 @@
 # Hi there! I'm Abhijith SJ 
 
 ## Notable Projects 
-<div>
-  - SJNET
-  - Capital_Handwriting_Replicator
-  - Quit-It
-  - Performance-Tracker
-</div>
-
+- SJNET
+- Capital_Handwriting_Replicator
+- Quit-It
+- Performance-Tracker
   
-
-  ## Languages & Frameworks Known
+## Languages & Frameworks Known
 <div align="center">
   <table>
     <tr>
@@ -64,7 +60,6 @@
   </p>
 </div>
   
-
 
 
 <!---
