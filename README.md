@@ -14,10 +14,11 @@
   React Js
 </p>
 
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="48" height="48">
-  Express.js
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Logo">
 </p>
+
 
   Feel free to connect or reach out for collaboration! 
 </div>
