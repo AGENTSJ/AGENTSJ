@@ -14,7 +14,10 @@
   React Js
 </p>
 
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="48" height="48">
+  Express.js
+</p>
 
   Feel free to connect or reach out for collaboration! 
 </div>
