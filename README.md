@@ -1,11 +1,23 @@
 # Hi there! I'm Abhijith SJ 
 
 ## Notable Projects 
-- SJNET
-- Capital_Handwriting_Replicator
-- Quit-It
-- Performance-Tracker
-  
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>SJNET</li>
+        <li>Capital_Handwriting_Replicator</li>
+        <li>Quit-It</li>
+        <li>Performance-Tracker</li>
+      </ul>
+    </td>
+  <td>
+  <!-- add er -->
+  </td>
+  </tr>
+<table>
+
 ## Languages & Frameworks Known
 <div align="center">
   <table>
@@ -60,6 +72,8 @@
     Feel free to connect or reach out for collaboration! 
   </p>
 </div>
+  
+
 <!---
 AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
