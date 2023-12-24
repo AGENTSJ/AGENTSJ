@@ -28,6 +28,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO Badge">
+</p>
   Feel free to connect or reach out for collaboration! 
 </div>
 
