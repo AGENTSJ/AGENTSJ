@@ -7,7 +7,10 @@
 - Performance-Tracker
 
   ## Languages & Frameworks Known
-  🌐 JavaScript, 🐍 Python, ☕ Java, ⚙️ C ,React.JS ,HTML ,CSS Express.JS ,Socket.IO ,Flask (Web Framework),TensorFlow, OpenCV
+  🌐 JavaScript, 🐍 Python, ☕ Java, ⚙️ C  ,HTML ,CSS Express.JS ,Socket.IO ,Flask,TensorFlow, OpenCV
+  <p align="center">
+  <img src="https://img.shields.io/badge/Made_with-React-blue?style=for-the-badge&logo=react" alt="Made with React">
+  </p>
 
   Feel free to connect or reach out for collaboration! 
 </div>
