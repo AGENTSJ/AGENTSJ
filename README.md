@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Logo">
 </p>
 
+<p align="center">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow Logo" width="48" height="48">
+  TensorFlow
+</p>
 
   Feel free to connect or reach out for collaboration! 
 </div>
