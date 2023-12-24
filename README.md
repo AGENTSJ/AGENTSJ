@@ -13,7 +13,7 @@
       </ul>
     </td>
   <td>
-     <img src="https://github.com/AGENTSJ/performance-tracker/assets/109428699/1fc099b4-db27-4157-9160-c56d81cfd513" alt="React Logo" width="200" height="200">
+     <img src="https://github.com/AGENTSJ/performance-tracker/assets/109428699/1fc099b4-db27-4157-9160-c56d81cfd513" alt="React Logo" width="500" height="500">
   </td>
   </tr>
 <table>
