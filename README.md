@@ -8,8 +8,9 @@
 
   ## Languages & Frameworks Known
   🌐 JavaScript, 🐍 Python, ☕ Java, ⚙️ C  ,HTML ,CSS Express.JS ,Socket.IO ,Flask,TensorFlow, OpenCV
+  
   <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-React-blue?style=for-the-badge&logo=react" alt="Made with React">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo">
   </p>
 
   Feel free to connect or reach out for collaboration! 
