@@ -1,23 +1,13 @@
 # Hi there! I'm Abhijith SJ 
 
-  ## Tech Stack
+## Notable Projects 
+- SJNET
+- Capital_Handwriting_Replicator
+- Quit-It
+- Performance-Tracker
 
-  ### Frontend
-  - React.JS
-  - HTML
-  - CSS
-
-  ### Backend
-  - Express.JS
-  - Socket.IO
-  - Flask (Web Framework)
-
-  ### Machine Learning & Data Science
-  - TensorFlow (Machine Learning)
-  - OpenCV with Python (Computer Vision)
-
-  ## Languages Known
-  🌐 JavaScript, 🐍 Python, ☕ Java, ⚙️ C
+  ## Languages & Frameworks Known
+  🌐 JavaScript, 🐍 Python, ☕ Java, ⚙️ C ,React.JS ,HTML ,CSS Express.JS ,Socket.IO ,Flask (Web Framework),TensorFlow, OpenCV
 
   Feel free to connect or reach out for collaboration! 
 </div>
