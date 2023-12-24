@@ -46,6 +46,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+</p>
   Feel free to connect or reach out for collaboration! 
 </div>
 
