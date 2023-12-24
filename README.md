@@ -20,10 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow Logo" width="48" height="48">
-  TensorFlow
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
 </p>
 
