@@ -47,7 +47,8 @@
 </tbody>
 <table>
 </div>
-<div align = "left" style="font-size:2em;">
+<br/>
+<div align = "left">
   <h1>Languages & Frameworks Known</h1>
 </div>
 <div align="center">
