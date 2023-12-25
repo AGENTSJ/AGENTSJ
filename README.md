@@ -12,10 +12,10 @@
     <tr>
     <td>
       <ul>
-        <li>SJNET</li><br/>
-        <li>Capital_Handwriting_Replicator</li><br/>
-        <li>Quit-It</li><br/>
-        <li>Performance-Tracker</li><br/>
+        <li style="font-size:1.5em;">Capital_Handwriting_Replicator</li><br/>
+        <li style="font-size:1.5em;">SJNET</li><br/>
+        <li style="font-size:1.5em;">Quit-It</li><br/>
+        <li style="font-size:1.5em;">Performance-Tracker</li><br/>
       </ul>
     </td>
     <td>
