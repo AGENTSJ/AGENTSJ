@@ -13,22 +13,28 @@
     <td>
       <ul>
         <li>SJNET</li><br/>
-        <li>Capital_Handwriting_Replicator</li>
-        <li>Quit-It</li>
-        <li>Performance-Tracker</li>
+        <li>Capital_Handwriting_Replicator</li><br/>
+        <li>Quit-It</li><br/>
+        <li>Performance-Tracker</li><br/>
       </ul>
     </td>
     <td>
         <ul>
-          <li><p align="center">
-  <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-</p></li>
-          <li><p align="center">
-  <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-</p></li>
-          <li><p align="center">
-  <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-</p></li>
+          <li>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+            </p>
+          </li>
+          <li>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+            </p>
+          </li>
+          <li>
+            <p align="center">
+                <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+            </p>
+          </li>
           <li><p align="center">
   <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
 </p></li>
