@@ -18,6 +18,28 @@
         <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</li></a><br/>
       </ul>
     </td>
+    <td>
+        <ul>
+          <li>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+            </p>
+          </li>
+          <li>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+            </p>
+          </li>
+          <li>
+            <p align="center">
+                <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+            </p>
+          </li>
+          <li><p align="center">
+  <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+</p></li>
+      </ul>
+    </td>
   <td>
   <img src="https://github.com/AGENTSJ/performance-tracker/assets/109428699/1fc099b4-db27-4157-9160-c56d81cfd513" alt="React Logo" width="300" height="300">
   </td>
