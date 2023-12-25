@@ -150,14 +150,8 @@
     Feel free to connect or reach out for collaboration! 
   </p>
 </div>
-<!---
-AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGENTSJ&theme=2077)
 <!---
 AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
