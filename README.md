@@ -111,7 +111,7 @@
       </td>
       <td align="center">
       <a href="https://dev.java/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Badge"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="60" alt="Java Badge"></a>
       </td>
     </tr>
     <tr>
@@ -130,10 +130,10 @@
     </tr>
     <tr>
     <td>
-    <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
+    <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="60"></a>
     </td>
     <td>
-    <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></a>
+    <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="60"></a>
     </td>
     <td>
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API"><img src="https://img.shields.io/badge/IndexedDB-%231C2022.svg?style=for-the-badge&logo=indexeddb&logoColor=white"></a>
