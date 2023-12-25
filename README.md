@@ -49,9 +49,9 @@
 </div align = "left">
 
   
-## Languages & Frameworks Known
+
 <div>
-  <strong></strong>
+  <strong>Languages & Frameworks Known</strong>
 </div>
 <div align="center">
   <table>
