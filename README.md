@@ -71,7 +71,9 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" width="48" height="48">
+        <a href="https://react.dev/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo">
+        </a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Logo">
