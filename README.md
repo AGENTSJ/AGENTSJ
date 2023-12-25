@@ -77,7 +77,7 @@
       </td>
       <td align="center">
         <a href="https://expressjs.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js Logo">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Logo">
       </a>
       </td>
         <td align="center">
