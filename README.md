@@ -1,8 +1,13 @@
 # Hi there! I'm Abhijith SJ 
 
-## Notable Projects 
 
 <table>
+<thead>
+<tr>
+<td><div align = "center" style="font-size:1.5em;"><strong>Notable Projects</div></td>
+<td><div align = "center" style="font-size:1.5em;"><strong>Status</div></td>
+</tr>
+</thead>
   <tr>
     <td>
       <ul>
@@ -13,7 +18,7 @@
       </ul>
     </td>
   <td>
-     <img src="https://github.com/AGENTSJ/performance-tracker/assets/109428699/1fc099b4-db27-4157-9160-c56d81cfd513" alt="React Logo" width="300" height="300">
+  <!-- add er -->
   </td>
   </tr>
 <table>
@@ -73,6 +78,7 @@
   </p>
 </div>
   
+
 
 <!---
 AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
