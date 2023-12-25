@@ -102,7 +102,7 @@
     <tr>
       <td align="center">
         <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" /> </a>
       </a>
       </td>
       <td align="center">
@@ -111,7 +111,7 @@
       </td>
       <td align="center">
       <a href="https://dev.java/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Badge"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Badge" height="40"></a>
       </td>
     </tr>
     <tr>
