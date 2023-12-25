@@ -1,51 +1,11 @@
 # Hi there! I'm Abhijith SJ 
 
-
-<table>
-<thead>
-<tr>
-<td><div align = "center" style="font-size:1.5em;"><strong>Notable Projects</div></td>
-<td><div align = "center" style="font-size:1.5em;"><strong>Status</div></td>
-<td></td>
-</tr>
-</thead>
-  <tr>
-    <td>
-      <ul>
-        <li>SJNET</li><br/>
-        <li>Capital_Handwriting_Replicator</li><br/>
-        <li>Quit-It</li><br/>
-        <li>Performance-Tracker</li><br/>
-      </ul>
-    </td>
-    <td>
-        <ul>
-          <li>
-            <p align="center">
-              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-            </p>
-          </li>
-          <li>
-            <p align="center">
-              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-            </p>
-          </li>
-          <li>
-            <p align="center">
-                <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-            </p>
-          </li>
-          <li><p align="center">
-  <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-</p></li>
-      </ul>
-    </td>
-  <td>
-  <img src="https://github.com/AGENTSJ/performance-tracker/assets/109428699/1fc099b4-db27-4157-9160-c56d81cfd513" alt="React Logo" width="300" height="300">
-  </td>
-  </tr>
-<table>
-
+## Notable Projects 
+- SJNET
+- Capital_Handwriting_Replicator
+- Quit-It
+- Performance-Tracker
+  
 ## Languages & Frameworks Known
 <div align="center">
   <table>
@@ -100,9 +60,6 @@
     Feel free to connect or reach out for collaboration! 
   </p>
 </div>
-  
-
-
 <!---
 AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
