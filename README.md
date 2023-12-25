@@ -1,4 +1,6 @@
-# Hi there! I'm Abhijith SJ 
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=my+name+is+SJ;%0Aabhijith+SJ;&center=true&width=500&height=50">
+</a>
 <div align="center">
   <table>
     <thead>
