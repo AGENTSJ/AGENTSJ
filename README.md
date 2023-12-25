@@ -46,10 +46,13 @@
   </tr>
 </tbody>
 <table>
-</div>
+</div align = "center">
 
   
-## Languages & Frameworks Known
+## Languages & Frameworks Known<
+<div>
+  <strong></strong>
+</div>
 <div align="center">
   <table>
     <tr>
