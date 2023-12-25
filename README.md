@@ -50,7 +50,7 @@
 
   
 
-<div align = "left">
+<div align = "left" style="font-size:3em">
   <strong>Languages & Frameworks Known</strong>
 </div>
 <div align="center">
