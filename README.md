@@ -65,7 +65,7 @@
 <table>
 </div>
 <div align = "left" style="font-size:2em;">
-  <h3>Known Languages & Frameworks :</h3>
+  <h2>Known Languages & Frameworks :</h2>
 </div>
 <div align="center">
   <table>
