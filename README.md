@@ -13,10 +13,10 @@
     <td>
       <ul>
         <li><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</li></a><br/>
-        <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li></a><br/>
-        <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</li></a><br/>
-        <li>Instagram-Journalist</li><br/>
+        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-Itv</li><br/>
+        <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Instagram-Journalist">Instagram-Journalist</a></li><br/>
       </ul>
     </td>
     <td>
@@ -65,7 +65,7 @@
 <table>
 </div>
 <div align = "left" style="font-size:2em;">
-  Languages & Frameworks Known
+  <h3>Known Languages & Frameworks :</h3>
 </div>
 <div align="center">
   <table>
