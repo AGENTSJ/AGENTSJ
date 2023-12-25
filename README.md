@@ -47,11 +47,8 @@
 </tbody>
 <table>
 </div>
-
-  
-
-<div align = "left" style="font-size:3em;">
-  <strong>Languages & Frameworks Known</strong>
+<div align = "left" style="font-size:2em;">
+  Languages & Frameworks Known
 </div>
 <div align="center">
   <table>
