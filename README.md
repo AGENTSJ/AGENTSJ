@@ -1,5 +1,5 @@
 # Hi there! I'm Abhijith SJ 
-<div align="center">
+<div align="left">
   <table>
     <thead>
       <tr>
