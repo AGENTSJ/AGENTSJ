@@ -24,26 +24,37 @@
         <ul>
           <li>
             <p align="center">
+              <a href="https://github.com/AGENTSJ/SJNET">
               <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+              </a>
             </p>
           </li>
           <li>
             <p align="center">
+              <a href="https://github.com/AGENTSJ/Capital_Handwriting_Replicator">
               <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+              </a>
             </p>
           </li>
           <li>
             <p align="center">
+                <a href="https://github.com/AGENTSJ/Quit-It">
                 <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+                </a>
             </p>
           </li>
           <li>
-          <p align="center">
-  <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
-</p>
-</li>
-<li><p align="center">
-  <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
+            <p align="center">
+              <a href="https://github.com/AGENTSJ/Performance-Tracker">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+              </a>
+            </p>
+          </li>
+          <li>
+  <p align="center">
+    <a href="https://github.com/AGENTSJ/Instagram-Journalist">
+    <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
+    </a>
 </p></li>
       </ul>
     </td>
