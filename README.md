@@ -70,7 +70,7 @@
 </div>
   <br/>
 <div align = "left" style="font-size:2em;">
-  <h2 style="font-color="90EE90";">Known Languages & Frameworks :</h2>
+<h2 style="color: #90EE90;">Known Languages & Frameworks :</h2>
 </div>
 <div align="center">
   <table>
