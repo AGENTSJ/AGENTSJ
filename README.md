@@ -17,6 +17,7 @@
         <li>Performance-Tracker</li>
       </ul>
     </td>
+    <td>hadfhsa<td>
   <td>
   <img src="https://github.com/AGENTSJ/performance-tracker/assets/109428699/1fc099b4-db27-4157-9160-c56d81cfd513" alt="React Logo" width="300" height="300">
   </td>
