@@ -72,7 +72,7 @@
     <tr>
       <td align="center">
         <a href="https://react.dev/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" width="48" height="48">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" height="48">
         </a>
       </td>
       <td align="center">
@@ -111,7 +111,7 @@
       </td>
       <td align="center">
       <a href="https://dev.java/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Badge" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Badge" height="60"></a>
       </td>
     </tr>
     <tr>
