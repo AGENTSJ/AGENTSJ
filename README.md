@@ -1,6 +1,6 @@
 <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=The+name+is+SJ;%0AAbhijith+SJ&center=true&width=500&height=80&color=5BCDEC&size=40">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=The+name+is+SJ;%0AAbhijith+SJ&center=true&width=500&height=80&color=90EE90&size=40">
 </a>
 
 <div align="center">
