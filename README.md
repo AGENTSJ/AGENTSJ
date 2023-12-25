@@ -46,10 +46,10 @@
   </tr>
 </tbody>
 <table>
-</div align = "center">
+</div align = "left">
 
   
-## Languages & Frameworks Known<
+## Languages & Frameworks Known
 <div>
   <strong></strong>
 </div>
