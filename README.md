@@ -12,10 +12,11 @@
     <tr>
     <td>
       <ul>
-        <li><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</li></a><br/>
-        <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li></a><br/>
-        <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</li></a><br/>
+        <li>SJNET</li><br/>
+        <li>Capital_Handwriting_Replicator</li><br/>
+        <li>Quit-It</li><br/>
+        <li>Performance-Tracker</li><br/>
+        <li>Instagram-Journalist</li><br/>
       </ul>
     </td>
     <td>
@@ -35,8 +36,13 @@
                 <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
             </p>
           </li>
-          <li><p align="center">
+          <li>
+          <p align="center">
   <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+</p>
+</li>
+<li><p align="center">
+  <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
 </p></li>
       </ul>
     </td>
@@ -47,9 +53,8 @@
 </tbody>
 <table>
 </div>
-<br/>
-<div align = "left">
-  <h1>Languages & Frameworks Known</h1>
+<div align = "left" style="font-size:2em;">
+  Languages & Frameworks Known
 </div>
 <div align="center">
   <table>
