@@ -6,6 +6,7 @@
 <tr>
 <td><div align = "center" style="font-size:1.5em;"><strong>Notable Projects</div></td>
 <td><div align = "center" style="font-size:1.5em;"><strong>Status</div></td>
+<td></td>
 </tr>
 </thead>
   <tr>
