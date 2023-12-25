@@ -72,7 +72,7 @@
     <tr>
       <td align="center">
         <a href="https://react.dev/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" height="48">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" width="48" height="48">
         </a>
       </td>
       <td align="center">
@@ -102,7 +102,7 @@
     <tr>
       <td align="center">
         <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" /> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
       </a>
       </td>
       <td align="center">
@@ -111,7 +111,7 @@
       </td>
       <td align="center">
       <a href="https://dev.java/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Badge" height="60"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Badge"></a>
       </td>
     </tr>
     <tr>
@@ -127,6 +127,17 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"></a>
       </td>
+    </tr>
+    <tr>
+    <td>
+    <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
+    </td>
+    <td>
+    <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></a>
+    </td>
+    <td>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API"><img src="https://img.shields.io/badge/IndexedDB-%231C2022.svg?style=for-the-badge&logo=indexeddb&logoColor=white"></a>
+    </td>
     </tr>
   </table>
   <br/>
