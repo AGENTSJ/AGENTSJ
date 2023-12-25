@@ -146,12 +146,13 @@
     </tr>
   </table>
   <br/>
-  <p align="center">
-    Feel free to connect or reach out for collaboration! 
-  </p>
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGENTSJ&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGENTSJ&theme=2077)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGENTSJ&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGENTSJ&theme=2077&utcOffset=8)
 <!---
 AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
