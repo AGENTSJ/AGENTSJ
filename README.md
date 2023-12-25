@@ -68,8 +68,9 @@
 </tbody>
 <table>
 </div>
+  <br/>
 <div align = "left" style="font-size:2em;">
-  <h1>Known Languages & Frameworks :</h1>
+  <h2 style="font-color="90EE90";">Known Languages & Frameworks :</h2>
 </div>
 <div align="center">
   <table>
