@@ -48,7 +48,7 @@
 <table>
 </div>
 <div align = "left" style="font-size:2em;">
-  Languages & Frameworks Known
+  <h1>Languages & Frameworks Known</h1>
 </div>
 <div align="center">
   <table>
