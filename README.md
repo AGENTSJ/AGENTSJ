@@ -46,7 +46,7 @@
   </tr>
 </tbody>
 <table>
-</div align = "left">
+</div>
 
   
 
