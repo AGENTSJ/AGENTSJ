@@ -69,7 +69,7 @@
 <table>
 </div>
 <div align = "left" style="font-size:2em;">
-  <h2>Known Languages & Frameworks :</h2>
+  <h1>Known Languages & Frameworks :</h1>
 </div>
 <div align="center">
   <table>
