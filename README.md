@@ -58,7 +58,7 @@
       </ul>
     </td>
   <td>
-  <img src="https://github.com/AGENTSJ/SJNET/assets/109428699/2e25ffc3-5b30-49bf-8604-a9049a56571e" alt="React Logo" width="300" height="300">
+  <img src="https://github.com/AGENTSJ/SJNET/assets/109428699/4b56ab5d-a444-479b-a9de-69ac7bc982a0" alt="React Logo" width="300" height="300">
   </td>
   </tr>
 </tbody>
