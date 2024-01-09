@@ -20,7 +20,7 @@
         <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
         <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Instagram-Journalist">Instagram-Journalist</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Portfolio">Personal Portfolio</a></li><br/>
       </ul>
     </td>
     <td>
@@ -55,7 +55,7 @@
           </li>
           <li>
   <p align="center">
-    <a href="https://github.com/AGENTSJ/Instagram-Journalist">
+    <a href="https://github.com/AGENTSJ/Portfolio">
     <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
     </a>
 </p></li>
