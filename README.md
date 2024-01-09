@@ -16,11 +16,11 @@
     <tr>
     <td>
       <ul>
-        <li><p><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></p></li>
-        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
-        <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Portfolio">Personal Portfolio</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/SJNET"><p>SJNET</p></a></li>
+        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator"><p>Capital_Handwriting_Replicator</p></a></li>
+        <li><a href="https://github.com/AGENTSJ/Quit-It"><p>Quit-It</p></li>
+        <li><a href="https://github.com/AGENTSJ/Performance-Tracker"><p>Performance-Tracker</p></a></li>
+        <li><a href="https://github.com/AGENTSJ/Portfolio"><p>Personal Portfolio</p></a></li>
       </ul>
     </td>
     <td>
