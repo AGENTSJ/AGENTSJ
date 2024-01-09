@@ -16,7 +16,7 @@
     <tr>
     <td>
       <ul>
-        <li><a href="https://github.com/AGENTSJ/SJNET"><p>SJNET</p></a></li><br/>
+        <li><p><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></p></li>
         <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
         <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
