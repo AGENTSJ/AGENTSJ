@@ -152,7 +152,7 @@
 ## LeetCode
 <!---![](https://leetcard.jacoblin.cool/Abhijith_SJ?theme=dark&font=Trykker?cache=0)
 --->
-<div aling="center">
+<div align="center">
  <img src="https://leetcard.jacoblin.cool/Abhijith_SJ?theme=dark&font=Trykker?cache=0" alt="leetcode card">
 </div>
 ## Giggity Git
