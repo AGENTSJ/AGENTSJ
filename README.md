@@ -157,12 +157,18 @@
 </div>
 ## Giggity Git
 <br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGENTSJ&theme=2077)
+<div align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGENTSJ&theme=2077" alt="github stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGENTSJ&theme=2077" alt="github stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGENTSJ&theme=2077" alt="github stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGENTSJ&theme=2077&utcOffset=8" alt="github stats">
+</div>
+<!--- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGENTSJ&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGENTSJ&theme=2077)
 <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGENTSJ&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGENTSJ&theme=2077&utcOffset=8)
+--->
 <!---
 AGENTSJ/AGENTSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
