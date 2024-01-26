@@ -17,7 +17,7 @@
     <td>
       <ul>
         <li><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Hand_Writing_Replicator">Handwriting_Replicator</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
         <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Instagram-Journalist">Instagram-Journalist</a></li><br/>
