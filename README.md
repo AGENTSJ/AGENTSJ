@@ -20,7 +20,7 @@
         <li><a href="https://github.com/AGENTSJ/Hand_Writing_Replicator">Handwriting_Replicator</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
         <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Instagram-Journalist">Instagram-Journalist</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Instagram-Journalist/">Instagram-Journalist</a></li><br/>
       </ul>
     </td>
     <td>
