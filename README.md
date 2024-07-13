@@ -56,7 +56,7 @@
           <li>
   <p align="center">
     <a href="https://github.com/AGENTSJ/Instagram-Journalist">
-    <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
+    <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
     </a>
 </p></li>
       </ul>
