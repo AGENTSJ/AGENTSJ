@@ -55,7 +55,7 @@
           </li>
           <li>
   <p align="center">
-    <a href="https://github.com/AGENTSJ/Instagram-Journalist">
+    <a href="https://agentsj.github.io/Multiplayer-Dino.github.io/">
     <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
     </a>
 </p></li>
