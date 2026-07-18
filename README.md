@@ -16,9 +16,10 @@
     <tr>
     <td>
       <ul>
+        <li><a href="https://github.com/AGENTSJ2/MagicSpiderFrontend">Magic Spider</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Hand_Writing_Replicator">Handwriting_Replicator</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
+        <!-- <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/> -->
         <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Multiplayer-Dino">Multiplayer_Dino</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/jsonMap">JsonMap</li><br/>
@@ -26,6 +27,13 @@
     </td>
     <td>
         <ul>
+          <li>
+            <p align="center">
+              <a href="https://github.com/AGENTSJ2/MagicSpiderFrontend">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+              </a>
+            </p>
+          </li>
           <li>
             <p align="center">
               <a href="https://github.com/AGENTSJ/SJNET">
