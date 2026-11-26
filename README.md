@@ -20,7 +20,7 @@
         <li><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Hand_Writing_Replicator">Handwriting_Replicator</a></li><br/>
         <!-- <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/> -->
-        <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/performance_tracker_2.0">Performance-Tracker</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/Multiplayer-Dino">Multiplayer_Dino</a></li><br/>
         <li><a href="https://github.com/AGENTSJ/jsonMap">JsonMap</li><br/>
       </ul>
